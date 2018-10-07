@@ -26,7 +26,7 @@ Various authors talk about their journey to the DevOps "ephiphany".
 
 Done by John Allspaw, the CTO of Etsy. Presented the original _[Ten Deploys a Day][]_ presentation which was revolutionary at the time.
 
-He has since to move on and form his own company, [Adaptive Capacy Labs LLC][], along with Dr. David Woods and Dr. Richard Cook. This is super interesting because it is essentially former CTO who took their research and applied it to operations.
+He has since to move on and form his own company, [Adaptive Capacity Labs LLC][], along with Dr. David Woods and Dr. Richard Cook. This is super interesting because it is essentially former CTO who took their research and applied it to operations.
 
 > In order for a field or discipline to progress and mature, it needs to reach a point where it can thoughtfully reflect on its origins, seek out a diverse set of perspectives on those reflections, and place that synthesis into a context that is useful for how the community pictures the future.
 
