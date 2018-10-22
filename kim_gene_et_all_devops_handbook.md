@@ -2,11 +2,11 @@
 
 ## Preface
 
-Various authors talk about their journey to the DevOps "ephiphany".
+Various authors talk about their journey to the DevOps "epiphany".
 
-**Gene Kim**
-**Jezz Humble**
-**Patrick Debois**
+**Gene Kim**  
+**Jezz Humble**  
+**Patrick Debois**  
 **John Willis**
 
 > Given our belief that DevOps is a manifestation of creating dynamic, learning organizations that continually reinforce high-trust cultural norms, it is inevitable that these organizations will continue to innovate and win in the marketplace.
